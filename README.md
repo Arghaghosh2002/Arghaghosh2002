@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **mobile application development**
 
-- 🌱 I’m currently learning **KOTLIN**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on [GCECT-APP](https://github.com/Arghaghosh2002/GCECT-APP)
 
